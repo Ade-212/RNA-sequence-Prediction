@@ -20,7 +20,7 @@ Extract RNA sequences from a given file and structure them into a pamdas DataFra
 # Notebook 7:
 Tokenize the RNA sequences, converting them into integer sequences for further processing.
 
-# Notebool 8:
+# Notebook 8:
 Split the RNA sequences into training and testing data for the machine learning model
 
 # Visualization:
